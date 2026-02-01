@@ -1,12 +1,12 @@
 # 🤖 Tugas Praktikum Python & AI Agent
 
 ## Identitas Mahasiswa
-- **Nama**: AHMAD AFFANDI SIKUMBANG
-- **NIM**: 230103243
-- **Kelas**: TI23C1
-- **Program Studi**: Teknik Informatika
-- **Mata Kuliah**: Pemrograman Python
-- **Dosen**: TRYONO, M.Kom.
+- **Nama**          : AHMAD AFFANDI SIKUMBANG
+- **NIM**           : 230103243
+- **Kelas**         : TI23C1
+- **Program Studi** : Teknik Informatika
+- **Mata Kuliah**   : Pemrograman Python
+- **Dosen**         : TRYONO, M.Kom.
 
 ---
 
@@ -100,7 +100,7 @@ Praktikum 7 & 8 berhasil diimplementasikan dengan **sempurna** mencakup semua re
 - 🔄 Melakukan planning multi-step untuk task kompleks
 - 📋 Mengelola task dengan persistent storage
 
-Semua fitur terintegrasi dalam **main.py** sebagai unified interface dan **demo.py** untuk keperluan screenshot tugas.
+Semua fitur terintegrasi dalam **main.py** sebagai unified interface.
 
 ---
 
