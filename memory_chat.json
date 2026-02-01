@@ -1,0 +1,130 @@
+[
+  {
+    "role": "user",
+    "content": "hitung 10+10"
+  },
+  {
+    "role": "agent",
+    "content": "Hasil perhitungan: 20"
+  },
+  {
+    "role": "user",
+    "content": "ringkas chat"
+  },
+  {
+    "role": "agent",
+    "content": "Ringkasan chat terakhir: [{'role': 'user', 'content': 'hitung 10+10'}, {'role': 'agent', 'content': 'Hasil perhitungan: 20'}, {'role': 'user', 'content': 'ringkas chat'}]"
+  },
+  {
+    "role": "user",
+    "content": "hitung 20+15"
+  },
+  {
+    "role": "agent",
+    "content": "Hasil perhitungan: 35"
+  },
+  {
+    "role": "user",
+    "content": "arti agent"
+  },
+  {
+    "role": "agent",
+    "content": "Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan."
+  },
+  {
+    "role": "user",
+    "content": "ringkas chat"
+  },
+  {
+    "role": "agent",
+    "content": "Ringkasan chat terakhir: [{'role': 'user', 'content': 'hitung 20+15'}, {'role': 'agent', 'content': 'Hasil perhitungan: 35'}, {'role': 'user', 'content': 'arti agent'}, {'role': 'agent', 'content': \"Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan.\"}, {'role': 'user', 'content': 'ringkas chat'}]"
+  },
+  {
+    "role": "user",
+    "content": "hitung 20+15"
+  },
+  {
+    "role": "agent",
+    "content": "Hasil perhitungan: 35"
+  },
+  {
+    "role": "user",
+    "content": "arti agent"
+  },
+  {
+    "role": "agent",
+    "content": "Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan."
+  },
+  {
+    "role": "user",
+    "content": "ringkas chat"
+  },
+  {
+    "role": "agent",
+    "content": "Ringkasan chat terakhir: [{'role': 'user', 'content': 'hitung 20+15'}, {'role': 'agent', 'content': 'Hasil perhitungan: 35'}, {'role': 'user', 'content': 'arti agent'}, {'role': 'agent', 'content': \"Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan.\"}, {'role': 'user', 'content': 'ringkas chat'}]"
+  },
+  {
+    "role": "user",
+    "content": "hitung 20+15"
+  },
+  {
+    "role": "agent",
+    "content": "Hasil perhitungan: 35"
+  },
+  {
+    "role": "user",
+    "content": "arti agent"
+  },
+  {
+    "role": "agent",
+    "content": "Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan."
+  },
+  {
+    "role": "user",
+    "content": "baca file materi.txt"
+  },
+  {
+    "role": "agent",
+    "content": "Isi file 'materi.txt':\nPython adalah bahasa pemrograman yang mudah dipelajari dan powerful.\nAI Agent merupakan teknologi masa depan yang akan mengubah cara kerja kita.\nMachine Learning membantu komputer belajar dari data tanpa diprogram secara eksplisit.\nNatural Language Processing memungkinkan komputer memahami bahasa manusia.\nDengan tools yang tepat, agent dapat menyelesaikan berbagai tugas kompleks."
+  },
+  {
+    "role": "user",
+    "content": "ringkas chat"
+  },
+  {
+    "role": "agent",
+    "content": "Ringkasan chat terakhir: [{'role': 'user', 'content': 'arti agent'}, {'role': 'agent', 'content': \"Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan.\"}, {'role': 'user', 'content': 'baca file materi.txt'}, {'role': 'agent', 'content': \"Isi file 'materi.txt':\\nPython adalah bahasa pemrograman yang mudah dipelajari dan powerful.\\nAI Agent merupakan teknologi masa depan yang akan mengubah cara kerja kita.\\nMachine Learning membantu komputer belajar dari data tanpa diprogram secara eksplisit.\\nNatural Language Processing memungkinkan komputer memahami bahasa manusia.\\nDengan tools yang tepat, agent dapat menyelesaikan berbagai tugas kompleks.\"}, {'role': 'user', 'content': 'ringkas chat'}]"
+  },
+  {
+    "role": "user",
+    "content": "hitung 20+15"
+  },
+  {
+    "role": "agent",
+    "content": "Hasil perhitungan: 35"
+  },
+  {
+    "role": "user",
+    "content": "arti agent"
+  },
+  {
+    "role": "agent",
+    "content": "Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan."
+  },
+  {
+    "role": "user",
+    "content": "baca file materi.txt"
+  },
+  {
+    "role": "agent",
+    "content": "Isi file 'materi.txt':\nPython adalah bahasa pemrograman yang mudah dipelajari dan powerful.\nAI Agent merupakan teknologi masa depan yang akan mengubah cara kerja kita.\nMachine Learning membantu komputer belajar dari data tanpa diprogram secara eksplisit.\nNatural Language Processing memungkinkan komputer memahami bahasa manusia.\nDengan tools yang tepat, agent dapat menyelesaikan berbagai tugas kompleks."
+  },
+  {
+    "role": "user",
+    "content": "ringkas chat"
+  },
+  {
+    "role": "agent",
+    "content": "Ringkasan chat terakhir: [{'role': 'user', 'content': 'arti agent'}, {'role': 'agent', 'content': \"Arti 'agent': Program yang bisa merencanakan dan memakai tool untuk menyelesaikan tujuan.\"}, {'role': 'user', 'content': 'baca file materi.txt'}, {'role': 'agent', 'content': \"Isi file 'materi.txt':\\nPython adalah bahasa pemrograman yang mudah dipelajari dan powerful.\\nAI Agent merupakan teknologi masa depan yang akan mengubah cara kerja kita.\\nMachine Learning membantu komputer belajar dari data tanpa diprogram secara eksplisit.\\nNatural Language Processing memungkinkan komputer memahami bahasa manusia.\\nDengan tools yang tepat, agent dapat menyelesaikan berbagai tugas kompleks.\"}, {'role': 'user', 'content': 'ringkas chat'}]"
+  }
+]

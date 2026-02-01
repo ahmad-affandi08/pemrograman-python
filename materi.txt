@@ -1,0 +1,5 @@
+Python adalah bahasa pemrograman yang mudah dipelajari dan powerful.
+AI Agent merupakan teknologi masa depan yang akan mengubah cara kerja kita.
+Machine Learning membantu komputer belajar dari data tanpa diprogram secara eksplisit.
+Natural Language Processing memungkinkan komputer memahami bahasa manusia.
+Dengan tools yang tepat, agent dapat menyelesaikan berbagai tugas kompleks.
